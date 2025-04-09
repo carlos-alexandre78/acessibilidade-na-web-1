@@ -140,3 +140,10 @@ h2 {
     line-height: 1.6;
     text-align: justify;
 }
+
+.botao-acessibilidade {
+color: #ffffff;
+background-color: #CB6D43;
+ width:1450;
+ height:550;
+}
