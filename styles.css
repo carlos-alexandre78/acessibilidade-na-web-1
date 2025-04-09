@@ -144,6 +144,9 @@ h2 {
 .botao-acessibilidade {
 color: #ffffff;
 background-color: #CB6D43;
- width:1450;
- height:550;
+}
+
+.Tamanho-botao {
+width:1450;
+height:550;
 }
